@@ -1,7 +1,10 @@
-<div id="header" align="center">
-    <h1>Hi there, I'm  Margarita </h1>
-    <h3> Data Analyst from Perm, Russia </h3>
-</div>
+<div align="center">Hi there, I'm  Margarita </div>
+
+<div align="center">_______________________ </div>
+
+<div align="center">Data Analyst from Russia, Perm </div>
+<div align="center"> SQL | Pyton | PowerBI  </div>
+
 
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/margarita-korotkikh">
