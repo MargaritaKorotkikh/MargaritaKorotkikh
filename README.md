@@ -2,7 +2,7 @@
 
 <div align="center">_______________________ </div>
 
-<div align="center">Data Analyst from Russia, Perm </div>
+<div align="center"> Russia, Perm </div>
 <div align="center"> SQL | Pyton | PowerBI  </div>
 
 
